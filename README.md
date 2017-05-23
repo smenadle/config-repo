@@ -1,1 +1,2 @@
-# config-repo
+# micro-config
+config server
